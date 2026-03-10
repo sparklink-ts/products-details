@@ -1,9 +1,20 @@
+***-::Employee Management System (EMS) (Ongoing project)::-***
+
 **Full Stack Cloud based DevOps CICD Projects:**
 
 ***Full Stack DevOps CICD Implementation and Deployment on AWS using ECS:***               https://github.com/sparklink-ts/aws-devops-cicd-using-ecs
 
 
 ***Full Stack DevOps CICD Implementation and Deployment on AWS using EKS:***               https://github.com/sparklink-ts/aws-devops-cicd-using-eks
+
+
+***-::Hospital Management System (HMS) (Ongoing project)::-***
+
+**Cloud based Hospital Management System (CHMS)** https://github.com/sparklink-ts/CHMS-v2-Documents
+
+
+
+**-::Other Projects::-**
 
 ***AWS-EC2-ALB-API-Gateway:***               https://github.com/sparklink-ts/aws-apigateway
 
