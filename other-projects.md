@@ -1,6 +1,18 @@
 **-::Other Projects::-**
 
-***AWS-EC2-ALB-API-Gateway:***    https://github.com/sparklink-ts/aws-apigateway
+***AWS-EC2-ALB-API-Gateway:***    
 
-***AWS-ElasticBS-API-Gateway:***  https://www.youtube.com/playlist?list=PL9SCFf2XVh6jwckjyt7huIqu5Ku00D86U
+        Github Link : https://github.com/sparklink-ts/aws-apigateway
+        
 
+***AWS-ElasticBS-API-Gateway:***  
+
+        Github Link : https://github.com/sparklink-ts/aws-apigateway
+        Youtube Video Link: https://www.youtube.com/playlist?list=PL9SCFf2XVh6jwckjyt7huIqu5Ku00D86U
+
+***AWS CloudFormation (IaC)***
+
+        Github Link :       https://github.com/sparklink-ts/AWS-CloudFormation
+
+        
+        Youtube Video Link: https://www.youtube.com/playlist?list=PL9SCFf2XVh6gvfwohtkbrqO3EZfNv_dYT
