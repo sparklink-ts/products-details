@@ -35,4 +35,15 @@ Youtube Video Link
 
                 https://www.youtube.com/playlist?list=PL9SCFf2XVh6gvfwohtkbrqO3EZfNv_dYT
 
+
+***AWS Cloud Watch | Cloud Logs | Cloud Trails***
+
+Github Link
+
+                https://github.com/sparklink-ts/AWS-Cloud-Watch
+        
+Youtube Video Link
+
+                    https://www.youtube.com/playlist?list=PL9SCFf2XVh6gmwAgwUQsuotC_rN1gqw4T
+
   
