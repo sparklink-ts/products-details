@@ -46,7 +46,7 @@ Youtube Video Link
 
                     https://www.youtube.com/playlist?list=PL9SCFf2XVh6gmwAgwUQsuotC_rN1gqw4T
 
-***AWS Java Spring Boot Microservices EC2 RDS MySQL on Linux Server***
+***AWS Java | Spring Boot | Microservices | EC2 | RDS | MySQL | on Linux Server***
 
 Github Link
 
