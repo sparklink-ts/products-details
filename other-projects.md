@@ -54,6 +54,16 @@ Github Link
         
 Youtube Video Link
 
-                    https://www.youtube.com/playlist?list=PL9SCFf2XVh6g-j1t-HOMi-Sp84vJUd-Ba
+                https://www.youtube.com/playlist?list=PL9SCFf2XVh6g-j1t-HOMi-Sp84vJUd-Ba
 
+
+***AWS Java Spring Boot Microservices | Lambda | S3 | SNS |API Gateway Using Java Handler***
+
+Github Link
+
+                https://github.com/sparklink-ts/aws-lambda-handler
+        
+Youtube Video Link
+
+                https://www.youtube.com/playlist?list=PL9SCFf2XVh6i9ngzbsXK9fNeOCZrgWBJt
   
