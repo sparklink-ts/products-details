@@ -92,9 +92,13 @@ Youtube Video Link
 
 ***AWS EC2 AMI Auto Scaling Group ALB Access without Public IP Access using ALB DNS name***
 
-*YouTube Video Links*
+Github Link
 
-        https://youtu.be/F35d-PPSSVw
+                https://github.com/sparklink-ts/aws-ec2-asg-alb-access-using-dns-name
+        
+Youtube Video Link
+
+                https://www.youtube.com/playlist?list=PL9SCFf2XVh6iESPE9CkQjQWYLUWGaV668
 
                 
 
