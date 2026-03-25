@@ -266,3 +266,20 @@ AWS | EC2 | EBS | on Linux Server | Part 03
 AWS | EC2 | EBS | on Linux Server | Part 04
 
         https://youtu.be/vcx1m8FEi5g
+
+
+***AWS | EC2 | EFS | on Windows Server | Linux Server***
+
+*YouTube Video Links (All Videos)*
+
+        https://www.youtube.com/playlist?list=PL9SCFf2XVh6jKs-Yi5mcPyvlWjxkGM02u
+
+AWS | EC2 | EFS | on Windows Server | Linux Server | Part 01
+
+        https://youtu.be/Lnafc44eHsA
+
+
+AWS | EC2 | EFS | on Windows Server | Linux Server | Part 02
+
+        https://youtu.be/xp6SNl8BQ_c
+
