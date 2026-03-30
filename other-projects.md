@@ -283,3 +283,72 @@ AWS | EC2 | EFS | on Windows Server | Linux Server | Part 02
 
         https://youtu.be/xp6SNl8BQ_c
 
+
+***-:::: AWS VPC ::::-***
+
+***AWS | Creating Security Groups For Linux Server***
+
+*YouTube Video Links (All Videos)*
+
+        https://www.youtube.com/playlist?list=PL9SCFf2XVh6juWtMOfzVdCvqbwz2uxwXS
+
+
+AWS | Creating Security Groups For Linux Server
+
+        https://youtu.be/KeY4NWDcQyU
+
+
+***AWS | VPC | NAT Gateway***
+
+*YouTube Video Links (All Videos)*
+
+        https://www.youtube.com/playlist?list=PL9SCFf2XVh6heP5Drv96o492TVFFiVKNa
+
+AWS | VPC | NAT Gateway | Part 1
+
+	https://youtu.be/AZ2otOXSidk
+
+AWS | VPC | NAT Gateway | Part 02
+
+	https://youtu.be/_qkgAcqJIGg
+	
+AWS | VPC | NAT Gateway | Part 03
+	
+	https://youtu.be/3g5z-9yOVpM
+
+AWS | VPC | NAT Gateway | Part 04	
+	
+	https://youtu.be/Ro8w7Z27z08
+
+
+***AWS | Default Subnet Creation | Using Default VPC***
+
+*YouTube Video Links (All Videos)*
+
+        https://www.youtube.com/playlist?list=PL9SCFf2XVh6heP5Drv96o492TVFFiVKNa
+
+AWS | Default Subnet Creation | Using Default VPC
+
+	https://youtu.be/q82i-oOqnQ0
+
+
+***AWS | Create Non Default VPC | Subnet | Route Table | Internet Gateway***
+
+*YouTube Video Links (All Videos)*
+
+        https://www.youtube.com/playlist?list=PL9SCFf2XVh6gHOeAoWYLaQ78kFxJV7tz5
+
+AWS | Create Non Default VPC | Subnet | Route Table | Internet Gateway | Part 01
+
+	https://youtu.be/hRJlobWv23o
+	
+AWS | Create Non Default VPC | Subnet | Route Table | Internet Gateway | Part 02
+
+	https://youtu.be/Y6UrJgVijtM
+	
+AWS | Create Non Default VPC | Subnet | Route Table | Internet Gateway | Part 03
+
+	https://youtu.be/pT30kj7QTYs
+
+
+
