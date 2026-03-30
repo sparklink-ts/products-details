@@ -25,7 +25,7 @@ Youtube Video Link
                 https://www.youtube.com/playlist?list=PL9SCFf2XVh6jwckjyt7huIqu5Ku00D86U
 
   
-***AWS CloudFormation (IaC)***
+***-:::: AWS CloudFormation (IaC) ::::-***
 
 Github Link
 
@@ -35,6 +35,9 @@ Youtube Video Link
 
                 https://www.youtube.com/playlist?list=PL9SCFf2XVh6gvfwohtkbrqO3EZfNv_dYT
 
+
+
+***-:::: AWS Cloud Watch ::::-***
 
 ***AWS Cloud Watch | Cloud Logs | Cloud Trails***
 
@@ -55,6 +58,9 @@ Github Link
 Youtube Video Link
 
                 https://www.youtube.com/playlist?list=PL9SCFf2XVh6g-j1t-HOMi-Sp84vJUd-Ba
+
+
+***-:::: AWS Lambda ::::-***
 
 
 ***AWS Java Spring Boot Microservices | Lambda | S3 | SNS |API Gateway Using Java Handler***
@@ -79,6 +85,11 @@ Youtube Video Link
                 https://www.youtube.com/playlist?list=PL9SCFf2XVh6iXJdg8RIgEnqxexmC28SoQ
 
 
+
+
+
+***-:::: AWS SQS ::::-***
+
 ***AWS SQS Type Standard and using REST API***
 
 Github Link
@@ -89,6 +100,10 @@ Youtube Video Link
 
                 https://www.youtube.com/playlist?list=PL9SCFf2XVh6hywSd9L_iZ_l_XVlrKH4bM
 
+
+
+
+***-:::: AWS ALB ::::-***
 
 ***AWS EC2 AMI Auto Scaling Group ALB Access without Public IP Access using ALB DNS name***
 
@@ -138,8 +153,6 @@ AWS IAM User Creation With S3 EC2 Full Access
 
         https://youtu.be/4uPhjhDP3I8
 
-
-        
 
 ***AWS IAM User Creation | Policies | Set Boundaries***
 
@@ -211,7 +224,6 @@ AWS IAM User Creation | Access S3 | Using AWS CLI | Using Windows | CMD | Part 0
         https://youtu.be/f1_5txYmldI
 
 
-
 ***AWS IAM | Multi Factor Authentication (MFA) | Alias***
 
 *YouTube Video Links (All Videos)*
@@ -220,6 +232,8 @@ AWS IAM User Creation | Access S3 | Using AWS CLI | Using Windows | CMD | Part 0
 
 AWS IAM Multi Factor Authentication
   
+
+
 
 ***-:::: AWS Storage ::::-***
 
@@ -284,7 +298,10 @@ AWS | EC2 | EFS | on Windows Server | Linux Server | Part 02
         https://youtu.be/xp6SNl8BQ_c
 
 
+
+
 ***-:::: AWS VPC ::::-***
+
 
 ***AWS | Creating Security Groups For Linux Server***
 
